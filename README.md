@@ -15,4 +15,4 @@ Besides, the same error will occur again when node id is inconsecutive. For exam
 
 ## `model4both.py`
 
-If you want to use `model4undirect.py`, the node id must begin with 1, since node is 0 is reserved as padding index. Other than that, there is no limitation for node id, the node id can be inconsecutive as well.
+If you want to use `model4both.py`, the node id must begin with 1, since node is 0 is reserved as padding index. Other than that, there is no limitation for node id, the node id can be inconsecutive as well.
